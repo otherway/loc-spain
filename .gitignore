@@ -52,3 +52,7 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# FS
+*.DS_Store
+*.directory
+*.settings
